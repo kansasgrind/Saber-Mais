@@ -42,6 +42,7 @@ Os links devem ser atualizados no caso de algum problema
 O sistema deve ser feito em Kotlin  
 O sistema deve ser compatível com Android 8+  
 O sistema salva os dados localmente
+O sistema usará uma API externa
 
 ## Protótipo
 
