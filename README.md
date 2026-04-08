@@ -6,7 +6,7 @@
 
 ## Visão Geral
 
-SaberMais é um aplicativo que lista importantes conteúdos e matérias do ensino brasileiro e os empacota de forma organizada e compreensiva. O aplicativo organiza os conteúdos por matéria e também os classifica com nível de importância em relação ao Exame Nacional do Ensino Médio (ENEM). Além disso, a plataforma também oferece uma ordem predefinida para o aprendizado, implementado para evitar que os usuários se percam na pergunta de que conteúdo devem aprender primeiro, assim como replicar um pouco do ambiente escolar.
+SaberMais é um aplicativo que lista importantes conteúdos e matérias do ensino brasileiro e os empacota de forma organizada e compreensiva de forma gratuita. O aplicativo organiza os conteúdos por matéria e também os classifica com nível de importância em relação ao Exame Nacional do Ensino Médio (ENEM). Além disso, a plataforma também oferece uma ordem predefinida para o aprendizado, implementado para evitar que os usuários se percam na pergunta de que conteúdo devem aprender primeiro, assim como replicar um pouco do ambiente escolar.
 
 ## Objetivo do App
 
