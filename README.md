@@ -17,7 +17,7 @@ Dessa forma, o aplicativo contribui para democratizar o acesso à educação, aj
 
 ODS 4 – Educação de Qualidade
 
-O aplicativo pretende auxiliar pessoas que não possuem acesso a escolas de qualidade ou 
+O aplicativo pretende auxiliar pessoas que não possuem acesso a escolas de qualidade, não possuem condições financeiras, ou 
 materiais didáticos adequados por meio de uma estrutura de aprendizado guiada e conteúdos gratuitos disponíveis na internet, a plataforma permitirá que mais pessoas tenham a oportunidade de aprender. 
 Assim, o projeto contribui para reduzir desigualdades educacionais e ampliar o acesso ao aprendizado.
 
