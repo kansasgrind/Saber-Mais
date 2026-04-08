@@ -32,6 +32,7 @@ O sistema deve mostrar os tópicos em ordem de aprendizado
 O usuário pode marcar um tópico como concluído  
 O sistema deve fornecer links gratuitos para cada tópico  
 O sistema deve funcionar sem login
+Um sistema de inteligência artificial para auxiliar nos estudos
 
 ## Requisitos Não Funcionais
 
