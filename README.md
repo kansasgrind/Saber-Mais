@@ -46,4 +46,4 @@ O sistema salva os dados localmente
 ## Protótipo
 
 O protótipo do aplicativo pode ser visualizado no link abaixo:  
-https://www.figma.com/design/Q7e8monArtKIZEX7beuuEI/Helliza%C2%B4s--Copy-?node-id=1-1199\&m=dev\&t=Rh0LhpwtKLWWYepz-1
+https://www.figma.com/make/OAfJZctJsGBZcMTf6ySZpH/SaberMais?p=f&t=zt7f5RnCRs5XhgX4-0&fullscreen=1
